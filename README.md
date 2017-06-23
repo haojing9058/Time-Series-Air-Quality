@@ -1,5 +1,4 @@
-# Univariate Time Series Prediction of CO Contaminants in an Italian
-City
+# Univariate Time Series Prediction of CO Contaminants in an Italian City
 
 ## list of files:
 report - Final Report.pdf
